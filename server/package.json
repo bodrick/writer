@@ -53,7 +53,7 @@
     "dotenv": "^14.2.0",
     "express": "^4.17.1",
     "express-rate-limit": "^5.5.1",
-    "mongoose": "^6.0.15",
+    "mongoose": "^8.0.0",
     "morgan": "^1.10.0",
     "mustache": "^4.2.0",
     "nanoid": "^3.2.0",
