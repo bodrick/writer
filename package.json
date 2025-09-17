@@ -4,7 +4,7 @@
   "description": "The AI powered documentation writer",
   "main": "server/index.ts",
   "scripts": {
-    "test": "npm run test"
+    "test": "npm run test; node .github/setup.js"
   },
   "repository": {
     "type": "git",
